@@ -1,0 +1,23 @@
+Name,Consistency,Serving Style,Eatable Outer Layer,Spoon,Primary Ingredients
+Żur w chlebie,Liquid,Layered,True,True,Liquid Base
+Smoothie bowl,Solid,Layered,False,False,Solid Ingredients
+Kompot,Liquid,Layered,False,False,Liquid Base
+Chili con carne,Solid,Uniform,False,True,Solid Ingredients
+Fondant czekoladowy,Solid,Layered,True,False,Liquid Base
+Galert,Solid,Uniform,False,True,Liquid Base
+Omlet,Solid,Uniform,False,False,Liquid Base
+Eintopf,Liquid,Uniform,False,True,Solid Ingredients
+Pyry z gzikiem,Solid,Layered,True,False,Solid Ingredients
+Biryani,Solid,Layered,False,False,Solid Ingredients
+Żymlok,Solid,Uniform,True,False,Solid Ingredients
+Piwo,Liquid,Uniform,False,False,Liquid Base
+Moczka,Liquid,Uniform,False,True,Solid Ingredients
+Szpajza,Solid,Uniform,False,True,Liquid Base
+Bubble Tea,Liquid,Layered,False,False,Liquid Base
+Koktajl owocowy,Liquid,Uniform,False,True,Solid Ingredients
+Taco,Solid,Layered,True,False,Solid Ingredients
+Pancakes,Solid,Layered,True,False,Solid Ingredients
+Currywurst,Solid,Uniform,False,False,Solid Ingredients
+Shepherd's Pie,Solid,Layered,True,True,Solid Ingredients
+Beef Stew,Liquid,Layered,True,False,Solid Ingredients
+Bigos,Solid,Uniform,False,True,Solid Ingredients
